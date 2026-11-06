@@ -29,7 +29,7 @@ Delta Chat のチャット内で使う webxdc アプリです。小テスト、�
 
 ## 操作マニュアル
 
-- [HTML版](chatto-shotest-demo.html)（画面画像入り・単独ファイル）
+- [HTML版](chatto-shotest.html)（画面画像入り・単独ファイル）
 
 
 アプリ本体：`chatto-shotest-1.7.1.xdc`
